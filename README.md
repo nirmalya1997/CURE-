@@ -1,4 +1,4 @@
-Doctor's Appointment Booking System Application
+Doctor's Appointment Booking System Application CURE+
 
 Creating an Android App / Website for Online Booking and Consultation
 
